@@ -6,11 +6,11 @@ require 'space_cats/version'
 Gem::Specification.new do |spec|
   spec.name          = "space_cats"
   spec.version       = SpaceCats::VERSION
-  spec.authors       = ["johnotander"]
-  spec.email         = ["johnotander@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.authors       = ["John Otander"]
+  spec.email         = ["john@uceem.com"]
+  spec.description   = %q{Space. Cats. Gem.}
+  spec.summary       = %q{Space. Cats. Gem.}
+  spec.homepage      = "https://uceem.com"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
