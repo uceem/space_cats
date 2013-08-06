@@ -1,6 +1,6 @@
 # SpaceCats
 
-TODO: Write a gem description
+Cats. Space. Gem.
 
 ## Installation
 
