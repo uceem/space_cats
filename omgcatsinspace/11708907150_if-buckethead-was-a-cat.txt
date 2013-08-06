@@ -1,0 +1,12 @@
+---
+state: published
+tags: animal,animals,cat,cat in space,cats,cats in space,space,shiro neko
+date: '2011-10-20 22:44:04 GMT'
+format: html
+slug: if-buckethead-was-a-cat
+id: 11708907150
+type: photo
+---
+http://24.media.tumblr.com/tumblr_ltdz3e6Ywr1r4xjo2o1_1280.jpg
+
+<p>if buckethead was a cat</p> 

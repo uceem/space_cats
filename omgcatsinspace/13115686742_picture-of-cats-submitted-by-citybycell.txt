@@ -1,0 +1,12 @@
+---
+state: published
+tags: cat,cats,cats in space,space,cat in space,gif,cat gif,submission
+date: '2011-11-21 17:24:15 GMT'
+format: html
+slug: picture-of-cats-submitted-by-citybycell
+id: 13115686742
+type: photo
+---
+http://24.media.tumblr.com/tumblr_luxuhlr9pa1r4xjo2o1_r1_500.gif
+
+<p>picture of cats submitted by <a href="http://citybycell.tumblr.com/" target="_blank">citybycell</a></p> 

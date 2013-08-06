@@ -1,0 +1,12 @@
+---
+state: published
+tags: shiro neko,cat,cats,cat in space,cats in space,space,animal,animals
+date: '2011-11-02 16:42:07 GMT'
+format: html
+slug: ''
+id: 12244574954
+type: photo
+---
+http://31.media.tumblr.com/tumblr_lu1l27rJ2N1r4xjo2o1_400.jpg
+
+<p> </p>

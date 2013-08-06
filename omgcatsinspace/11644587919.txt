@@ -1,0 +1,12 @@
+---
+state: published
+tags: diaper,cat,cats,cat in space,cats in space,space,animal,animals
+date: '2011-10-19 05:16:53 GMT'
+format: html
+slug: ''
+id: 11644587919
+type: photo
+---
+http://24.media.tumblr.com/tumblr_ltas05tAAT1r4xjo2o1_1280.jpg
+
+<p> </p>

@@ -1,0 +1,12 @@
+---
+state: published
+tags: ''
+date: '2011-10-29 15:34:12 GMT'
+format: html
+slug: irrelevant-but-here-is-a-narwhal-for-those-of-you
+id: 12074876301
+type: photo
+---
+http://24.media.tumblr.com/tumblr_ltu390fXIo1r4xjo2o1_1280.jpg
+
+<p>IRRELEVANT BUT, here is a narwhal for those of you who actually wanted to see a picture of a narwhal in space. now back to posting cats.</p> 

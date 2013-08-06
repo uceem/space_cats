@@ -1,0 +1,12 @@
+---
+state: published
+tags: cat,cats,cat in space,cats in space,space,submission
+date: '2011-11-03 21:42:05 GMT'
+format: html
+slug: littleblueoctopuss-kitty
+id: 12297751435
+type: photo
+---
+http://24.media.tumblr.com/tumblr_lu0jqcRnFg1r4xjo2o1_r1_500.jpg
+
+<p><a target="_blank" href="http://littleblueoctopus.tumblr.com/">littleblueoctopus</a>'s kitty</p> 

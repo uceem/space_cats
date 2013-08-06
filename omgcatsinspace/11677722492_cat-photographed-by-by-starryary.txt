@@ -1,0 +1,12 @@
+---
+state: published
+tags: ''
+date: '2011-10-20 05:42:46 GMT'
+format: html
+slug: cat-photographed-by-by-starryary
+id: 11677722492
+type: photo
+---
+http://24.media.tumblr.com/tumblr_ltcb2wezNh1r4xjo2o1_1280.jpg
+
+<p>Cat photographed by by <a href="http://platinumtrix.deviantart.com/">StarryAry</a></p>

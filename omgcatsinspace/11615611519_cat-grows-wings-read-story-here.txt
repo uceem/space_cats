@@ -1,0 +1,12 @@
+---
+state: published
+tags: cat with wings,cat,cats,cat in space,cats in space,space,nebula,animal,animals
+date: '2011-10-18 16:38:00 GMT'
+format: html
+slug: cat-grows-wings-read-story-here
+id: 11615611519
+type: photo
+---
+http://24.media.tumblr.com/tumblr_lsyxg8Ml9U1r4xjo2o1_500.jpg
+
+<p><a href="http://www.telegraph.co.uk/news/newstopics/howaboutthat/2631016/Chinese-cats-grow-wings.html">cat grows wings. read story here</a></p> 

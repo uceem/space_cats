@@ -1,0 +1,12 @@
+---
+state: published
+tags: maru,cat,cats,cat gif,gif,cats in space,cat in space,space,animal,animals
+date: '2011-11-10 18:22:06 GMT'
+format: html
+slug: ''
+id: 12604489477
+type: photo
+---
+http://31.media.tumblr.com/tumblr_lugj06ZSgX1r4xjo2o1_500.gif
+
+<p> </p>

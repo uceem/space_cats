@@ -1,0 +1,12 @@
+---
+state: published
+tags: cat,cats,cat in space,cats in space,space,submission
+date: '2011-11-07 17:57:51 GMT'
+format: html
+slug: cat-submitted-by-obst-schleife
+id: 12473440630
+type: photo
+---
+http://24.media.tumblr.com/tumblr_lu5xv8Bml71r4xjo2o1_r1_500.jpg
+
+<p>cat submitted by <a target="_blank" href="http://obst-schleife.tumblr.com/">obst-schleife</a></p> 

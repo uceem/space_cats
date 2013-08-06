@@ -1,0 +1,12 @@
+---
+state: published
+tags: cat,cats,cat in space,cats in space,space,animal,animals,cat gif,gif,submission
+date: '2012-01-19 23:41:05 GMT'
+format: html
+slug: cat-lexas-cat
+id: 16139799564
+type: photo
+---
+http://31.media.tumblr.com/tumblr_lw82ldf30M1r4xjo2o1_r1_500.gif
+
+<p><a href="http://cat-lexa.tumblr.com/">cat-lexa</a>'s cat</p> 

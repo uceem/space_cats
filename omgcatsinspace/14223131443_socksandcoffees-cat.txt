@@ -1,0 +1,12 @@
+---
+state: published
+tags: cat,cats,cat in space,cats in space,space,gif,cat gif,submission
+date: '2011-12-14 19:05:24 GMT'
+format: html
+slug: socksandcoffees-cat
+id: 14223131443
+type: photo
+---
+http://24.media.tumblr.com/tumblr_lvtj9jf52u1r4xjo2o1_r1_400.gif
+
+<p><a href="http://socksandcoffee.tumblr.com/">socksandcoffee</a>'s cat</p> 
