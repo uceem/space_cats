@@ -1,0 +1,12 @@
+---
+state: published
+tags: maru,box,cat,cats,cat in space,cats in space,space,nebula,animal,animals
+date: '2011-10-10 02:21:30 GMT'
+format: html
+slug: ''
+id: 11256809678
+type: photo
+---
+http://24.media.tumblr.com/tumblr_lstvvujs9M1r4xjo2o1_1280.jpg
+
+<p> </p>

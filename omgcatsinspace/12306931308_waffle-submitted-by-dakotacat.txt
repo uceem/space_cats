@@ -1,0 +1,12 @@
+---
+state: published
+tags: cat,cats,cat in space,cats in space,space,submission
+date: '2011-11-04 00:50:06 GMT'
+format: html
+slug: waffle-submitted-by-dakotacat
+id: 12306931308
+type: photo
+---
+http://31.media.tumblr.com/tumblr_lu0jxvSVO21r4xjo2o1_r1_1280.jpg
+
+<p>Waffle submitted by <a target="_blank" href="http://dakotacat.tumblr.com/">dakotacat</a></p> 

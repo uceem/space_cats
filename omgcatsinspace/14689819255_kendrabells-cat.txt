@@ -1,0 +1,12 @@
+---
+state: published
+tags: cat,cats,cat in space,cats in space,space,animal,animals,cat gif,gif,submission
+date: '2011-12-23 22:31:51 GMT'
+format: html
+slug: kendrabells-cat
+id: 14689819255
+type: photo
+---
+http://24.media.tumblr.com/tumblr_lvth0p9D6c1r4xjo2o1_r1_500.gif
+
+<p><a href="http://kendrabell.tumblr.com/">kendrabell</a><span><strong>'s cat</strong></span></p> 

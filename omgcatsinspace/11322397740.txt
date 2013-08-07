@@ -1,0 +1,12 @@
+---
+state: published
+tags: animal,animals,cat,cat in space,cats,cats in space,hairless cat,space
+date: '2011-10-11 18:14:23 GMT'
+format: html
+slug: ''
+id: 11322397740
+type: photo
+---
+http://31.media.tumblr.com/tumblr_lswynz7R6L1r4xjo2o1_1280.jpg
+
+<p> </p>

@@ -1,0 +1,12 @@
+---
+state: published
+tags: maru,cat,cats,cat in space,cats in space,space,nebula,animal,animals,raincoat
+date: '2011-10-19 05:23:40 GMT'
+format: html
+slug: ''
+id: 11644740782
+type: photo
+---
+http://24.media.tumblr.com/tumblr_ltasbgkh8a1r4xjo2o1_500.jpg
+
+<p> </p>

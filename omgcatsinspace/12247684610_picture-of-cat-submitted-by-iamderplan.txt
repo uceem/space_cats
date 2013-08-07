@@ -1,0 +1,12 @@
+---
+state: published
+tags: cat,cats,cat in space,cats in space,space,submission
+date: '2011-11-02 18:24:05 GMT'
+format: html
+slug: picture-of-cat-submitted-by-iamderplan
+id: 12247684610
+type: photo
+---
+http://31.media.tumblr.com/tumblr_lu09wpB7aF1r4xjo2o1_r1_1280.jpg
+
+<p>picture of cat submitted by <a target="_blank" href="http://iamderplan.tumblr.com/">iamderplan</a></p> 

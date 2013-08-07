@@ -1,0 +1,12 @@
+---
+state: published
+tags: cat,cats,cat in space,cats in space,space,animal,animals
+date: '2011-10-22 21:36:06 GMT'
+format: html
+slug: ''
+id: 11789520247
+type: photo
+---
+http://31.media.tumblr.com/tumblr_lt9583w5wN1r4xjo2o1_1280.jpg
+
+<p> </p>

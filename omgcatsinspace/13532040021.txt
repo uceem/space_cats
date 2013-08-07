@@ -1,0 +1,13 @@
+---
+state: published
+tags: cat,cats,cat gif,gif,cats in space,cat in space,space,animal,animals,maru,cat
+  wearing glasses,cat with glasses,harry potter glasses
+date: '2011-11-30 04:04:58 GMT'
+format: html
+slug: ''
+id: 13532040021
+type: photo
+---
+http://31.media.tumblr.com/tumblr_lvggn3w3QN1r4xjo2o1_500.gif
+
+<p> </p>

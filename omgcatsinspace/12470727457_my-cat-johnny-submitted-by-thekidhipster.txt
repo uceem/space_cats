@@ -1,0 +1,12 @@
+---
+state: published
+tags: cat,cats in space,cat in space,space,cats,submission
+date: '2011-11-07 16:16:05 GMT'
+format: html
+slug: my-cat-johnny-submitted-by-thekidhipster
+id: 12470727457
+type: photo
+---
+http://24.media.tumblr.com/tumblr_lu3tzkbMd31r4xjo2o1_r1_500.jpg
+
+<p>my cat Johnny submitted by <a target="_blank" href="http://thekidhipster.tumblr.com/">thekidhipster</a></p> 
