@@ -1,0 +1,13 @@
+---
+state: published
+tags: cat,cat gif,cats,gif,yarn,ball of yarn,yarn ball,shiro neko,cat in space,cats
+  in space,space,animal,animals
+date: '2011-10-24 23:26:22 GMT'
+format: html
+slug: ''
+id: 11883423232
+type: photo
+---
+http://24.media.tumblr.com/tumblr_ltlfry58EG1r4xjo2o1_500.gif
+
+<p> </p>

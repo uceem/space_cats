@@ -1,0 +1,12 @@
+---
+state: published
+tags: cat,cats,cat in space,cats in space,space,submission
+date: '2011-11-02 21:36:06 GMT'
+format: html
+slug: picture-of-puss-submitted-by-captainsallybear
+id: 12255344335
+type: photo
+---
+http://31.media.tumblr.com/tumblr_lu0alqjh4P1r4xjo2o1_r1_500.jpg
+
+<p>picture of puss submitted by <a target="_blank" href="http://captainsallybear.tumblr.com/">captainsallybear</a><span> </span></p> 

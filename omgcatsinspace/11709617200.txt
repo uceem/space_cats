@@ -1,0 +1,12 @@
+---
+state: published
+tags: animal,animals,cat,cat in space,cats,cats in space,space,maru
+date: '2011-10-20 23:00:04 GMT'
+format: html
+slug: ''
+id: 11709617200
+type: photo
+---
+http://24.media.tumblr.com/tumblr_ltdz2afnrC1r4xjo2o1_500.jpg
+
+<p> </p>
