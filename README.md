@@ -18,7 +18,16 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Including space cat imagery is simple, almost too simple.
+
+In any view, all you need to add is:
+
+```ruby
+<%= space_cat %>
+```
+
+And, you've got yourself a space cat.   
+![pizza space cat](http://24.media.tumblr.com/42181e20797b546c2f842ce8f6bf9f55/tumblr_mmel6b5X5K1r4xjo2o1_250.gif)
 
 ## Contributing
 
