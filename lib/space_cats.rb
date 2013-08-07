@@ -7,7 +7,7 @@ module SpaceCats
 
   def get_cat_url
     begin
-      parse_url_from_string(File.open(get_random_space_cat_file))
+      parse_url_from_file(File.open(get_random_space_cat_file))
     rescue
       return pizza_cat_url
     end
@@ -23,7 +23,7 @@ module SpaceCats
       Dir["#{ File.join(File.dirname(File.dirname(__FILE__)), 'omgcatsinspace') }/*"]
     end
 
-    def parse_url_from_string(file)
+    def parse_url_from_file(file)
       file.read.split.grep(/http[s]?:\/\/\w/).first
     end
 
