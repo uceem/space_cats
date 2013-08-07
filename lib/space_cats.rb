@@ -2,7 +2,7 @@ require "space_cats/version"
 
 module SpaceCats
   def space_cat
-    "<a href='#{ file.read.split.grep(/http[s]?:\/\/\w/).first }'><img src='#{ get_cat_url }'></img></a>".html_safe
+    "<a href='http://omgcatsinspace.tumblr.com'><img src='#{ get_cat_url }'></img></a>".html_safe
   end
 
   def get_cat_url
