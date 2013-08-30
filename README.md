@@ -26,6 +26,12 @@ In any view, all you need to add is:
 <%= space_cat %>
 ```
 
+If you want to use the local copy rather than querying a space_cat from tumblr, use:
+
+```ruby
+<%= space_cat(local: true) %>
+```
+
 And, you've got yourself a space cat.   
 ![pizza space cat](http://24.media.tumblr.com/42181e20797b546c2f842ce8f6bf9f55/tumblr_mmel6b5X5K1r4xjo2o1_250.gif)
 
