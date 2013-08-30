@@ -3,10 +3,7 @@ require "space_cats/version"
 
 module SpaceCats
   def space_cat(options = {})
-    "<a href='http://omgcatsinspace.tumblr.com'> \
-        alt='omg, a cat in space' \
-      <img src='#{ get_cat_url(options) }'></img> \
-     </a>".html_safe
+    "<a href='http://omgcatsinspace.tumblr.com' alt='omg, a cat in space'><img src='#{ get_cat_url(options) }'></img></a>".html_safe
   end
 
   def get_cat_url(options = {})
@@ -32,7 +29,7 @@ module SpaceCats
     end
 
     def get_random_url_from_blob(blob)
-      URI.extract(blob).select { |url| url.include?('500.gif') }.shuffle.first
+      URI.extract(blob.gsub('\/', '/')).select { |url| url.include?('500.gif') }.shuffle.first
     end
 
     def get_random_space_cat_file
