@@ -4,6 +4,7 @@ require "space_cats/version"
 module SpaceCats
   def space_cat(options = {})
     "<a href='http://omgcatsinspace.tumblr.com'> \
+        alt='omg, a cat in space' \
       <img src='#{ get_cat_url(options) }'></img> \
      </a>".html_safe
   end
